@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 ```yaml
-name: karmesh Meritia
+name: Karmesh Meritia
 who am i: Tech Enthusiast | Machine Learning Aficionado | Flutter Fanatic
 location: In front of my laptop
 primary_goal: "To learn what and like and dont understand"
