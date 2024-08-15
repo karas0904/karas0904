@@ -59,7 +59,7 @@ print(my_tech_stack())
 ```yaml
 const contact = {
     email: "karmesh9797@gmail.com",
-    linkedin: "https://www.linkedin.com/in/karmesh-meritia/",
+    linkedin: <a href="https://www.linkedin.com/in/karmesh-meritia/",></a>
     portfolio: "https://karas0904.github.io/"
 };
 ```
