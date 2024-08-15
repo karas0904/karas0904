@@ -49,10 +49,10 @@ print(my_tech_stack())
 
 ### 📈 Stats & More
 ```yaml
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" width="45%" />
-</p>
+</div>
 ```
 
 ### 📫 How to reach me
