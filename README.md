@@ -50,8 +50,8 @@ print(my_tech_stack())
 ### 📈 Stats & More
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" width="45%" HEIGHT=30%/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" width="45%" HEIGHT=30%/>
 </div>
 
 
