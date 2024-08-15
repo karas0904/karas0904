@@ -5,10 +5,10 @@
 ### 🚀 About Me
 
 ```yaml
-name: [Your Name]
+name: karmesh Meritia
 whoami: Tech Enthusiast | Machine Learning Aficionado | Flutter Fanatic
-location: 🌍 Earth (Mostly in India 🧘‍♂️)
-primary_goal: "To innovate and support emerging technologies 🌟"
+location: In front of my laptop
+primary_goal: "To learn what and like and dont understand"
 ultimate_dream: "Start my own tech company and change the world 💡"
 ```
 
@@ -19,9 +19,9 @@ class Experience:
         self.gobolt_intern = {
             "role": "Operations Research Intern",
             "focus": "Logistics & Algorithm Optimization",
-            "skills_gained": ["Bin Packing Algorithms", "Efficiency Improvements"]
+            "skills_gained": ["implement complex Algorithms", "Efficiency Improvements"]
         }
-        self.flutter_projects = ["Diabetes Management App", "WhatsApp UI Clone"]
+        self.ongoing_project = ["Diabetes Management App"]
 ```
 
 ### 💻 My Tech Stack
@@ -42,7 +42,8 @@ def my_tech_stack():
 print(my_tech_stack())
 ```
 
-
+<br>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -60,7 +61,8 @@ print(my_tech_stack())
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
 </p>
 
-
+<br>
+<br>
 
 
 ### 📫 How to reach me
