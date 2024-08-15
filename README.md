@@ -23,6 +23,7 @@ class Experience:
         }
         self.flutter_projects = ["Diabetes Management App", "WhatsApp UI Clone"]
 ```
+
 ### 💻 My Tech Stack
 ```python
 def my_tech_stack():
@@ -40,6 +41,9 @@ def my_tech_stack():
 
 print(my_tech_stack())
 ```
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
@@ -56,6 +60,10 @@ print(my_tech_stack())
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
 </p>
 
+
+
+
+### 📫 How to reach me
 ```yaml
 const contact = {
     email: "your.email@example.com",
@@ -65,4 +73,9 @@ const contact = {
 };
 ```
 
-
+## 📈 Stats & More
+```yaml
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7Btype:'pie',data:%7Blabels:%5B'Python','ML','Flutter/Firebase'%5D,datasets:%5B{data:%5B70,30,45%5D,backgroundColor:%5B'#3776AB','#FF6F00','#02569B'%5D}%5D%7D%7D" alt="Stats Pie Chart" />
+</p>
+```
