@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm karmesh!
 
 
-![Coder GIF](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+![Coder GIF](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 
 ### 🚀 About Me
