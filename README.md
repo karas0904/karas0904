@@ -5,10 +5,10 @@
 ### 🚀 About Me
 
 ```yaml
-name: [Your Name]
-whoami: Tech Enthusiast | Machine Learning Aficionado | Flutter Fanatic
-location: 🌍 Earth (Mostly in India 🧘‍♂️)
-primary_goal: "To innovate and support emerging technologies 🌟"
+name: Karmesh Meritia
+who am i: Tech Enthusiast | Machine Learning Aficionado | Flutter Fanatic
+location: 🌍 In front of my laptop
+primary_goal: "To learn in depth what i like"
 ultimate_dream: "Start my own tech company and change the world 💡"
 
 class Experience:
