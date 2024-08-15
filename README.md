@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm karmesh!
 
-![Coder GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🚀 About Me
 
