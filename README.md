@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm karmesh!
 
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coder GIF](https://media.giphy.com/media/l4pTfxjfJ8JvuSsgc/giphy.gif)
 
 ### 🚀 About Me
 
@@ -75,7 +75,7 @@ const contact = {
 };
 ```
 
-🧑‍💻 Fun Facts
+### 🧑‍💻 Fun Facts
 ```yaml
 {
   "coffee_addict": true,
