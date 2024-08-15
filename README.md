@@ -11,7 +11,7 @@ location: 🌍 In front of my laptop
 primary_goal: "To learn in depth what i like"
 ultimate_dream: "Start my own tech company and change the world 💡"
 
-### 💼 Experience
+### **💼 Experience**
 
 
 class Experience:
