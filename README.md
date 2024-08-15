@@ -71,6 +71,6 @@ const contact = {
 {
   "coffee_addict": true,
   "currently_learning": "Deep Learning handson and flutter",
-  "hobbies": ["Coding", "Gaming", "Exploring AI", "Learning new tech"],
+  "hobbies": ["Coding", "Exploring AI", "Learning new tech,'basketball","drawing","watching movies","traveling"],
 }
 ```
