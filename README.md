@@ -73,9 +73,12 @@ const contact = {
 };
 ```
 
-## 📈 Stats & More
+🧑‍💻 Fun Facts
 ```yaml
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype:'pie',data:%7Blabels:%5B'Python','ML','Flutter/Firebase'%5D,datasets:%5B{data:%5B70,30,45%5D,backgroundColor:%5B'#3776AB','#FF6F00','#02569B'%5D}%5D%7D%7D" alt="Stats Pie Chart" />
-</p>
+{
+  "coffee_addict": true,
+  "currently_learning": "Deep Learning handson and flutter",
+  "hobbies": ["Coding", "Gaming", "Exploring AI", "Learning new tech"],
+}
 ```
+
