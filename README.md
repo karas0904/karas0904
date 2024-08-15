@@ -41,31 +41,19 @@ def my_tech_stack():
 print(my_tech_stack())
 ```
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" alt="Dart Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter Logo" width="100" height="100" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" alt="TensorFlow Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square" alt="Keras Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" alt="Scikit-learn Logo" width="100" height="100" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C/C++ Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy Logo" width="100" height="100" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square" alt="Matplotlib Logo" width="100" height="100" />
-  <img src="https://img.shields.io/badge/-Seaborn-3D9B9C?logo=seaborn&logoColor=white&style=flat-square" alt="Seaborn Logo" width="100" height="100" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" alt="Firebase Logo" width="100" height="100" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Seaborn-3D9B9C?logo=seaborn&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
 </p>
 
 
