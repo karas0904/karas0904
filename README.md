@@ -11,6 +11,8 @@ location: 🌍 In front of my laptop
 primary_goal: "To learn in depth what i like"
 ultimate_dream: "Start my own tech company and change the world 💡"
 
+### 💼 Experience
+
 class Experience:
     def __init__(self):
         self.gobolt_intern = {
