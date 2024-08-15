@@ -67,7 +67,8 @@ const contact = {
 ```
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" /></p>
 
+ 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" /></p>
 
