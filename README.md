@@ -58,10 +58,9 @@ print(my_tech_stack())
 ### 📫 How to reach me
 ```yaml
 const contact = {
-    email: "your.email@example.com",
-    linkedin: "https://www.linkedin.com/in/yourname",
-    twitter: "https://twitter.com/yourhandle",
-    portfolio: "https://yourportfolio.com"
+    email: "karmesh9797@gmail.com",
+    linkedin: "https://www.linkedin.com/in/karmesh-meritia/",
+    portfolio: "https://karas0904.github.io/"
 };
 ```
 
