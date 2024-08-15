@@ -56,13 +56,13 @@ print(my_tech_stack())
 </div>
 
 ### 📫 How to reach me
-```yaml
+
 const contact = {
     email: "karmesh9797@gmail.com",
-    linkedin: <a href="https://www.linkedin.com/in/karmesh-meritia/",></a>
+    linkedin: <a href= "https://www.linkedin.com/in/karmesh-meritia/"></a>
     portfolio: "https://karas0904.github.io/"
 };
-```
+
 
 ### 🧑‍💻 Fun Facts
 ```yaml
