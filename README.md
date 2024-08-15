@@ -56,5 +56,13 @@ print(my_tech_stack())
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" />
 </p>
 
+```yaml
+const contact = {
+    email: "your.email@example.com",
+    linkedin: "https://www.linkedin.com/in/yourname",
+    twitter: "https://twitter.com/yourhandle",
+    portfolio: "https://yourportfolio.com"
+};
+```
 
 
