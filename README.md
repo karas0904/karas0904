@@ -52,9 +52,7 @@ print(my_tech_stack())
 ### 📈 Stats & More
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karas0904&show_icons=true&locale=en" alt="karas0904" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karas0904&" alt="karas0904" width="45%"/>
-</div>
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 
 ### 📫 How to reach me
