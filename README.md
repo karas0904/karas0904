@@ -1,7 +1,8 @@
 # 👋 Hello, World! I'm karmesh!
 
 
-![Coder GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw02Q8I0aoLBHJndRn3P_Ink&ust=1724505580135000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjB7Yeai4gDFQAAAAAdAAAAABAE)
+![Coder GIF](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 
 
 ### 🚀 About Me
