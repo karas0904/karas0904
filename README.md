@@ -10,7 +10,7 @@
 
 ```yaml
 name: Karmesh Meritia
-who am i: Tech Enthusiast | Machine Learning Aficionado | Flutter Fanatic
+who am i: Tech Enthusiast | Machine Learning Aficionado | like Vibe Coding
 location: In front of my laptop
 primary_goal: "To learn what and like and dont understand"
 ultimate_dream: "Start my own tech company💡"
@@ -31,8 +31,8 @@ class Experience:
 ### 💻 My Tech Stack
 ```python
 def my_tech_stack():
-    languages = ["Python", "Dart", "SQL", "C/C++"]
-    frameworks = ["Flutter", "TensorFlow/Keras", "Scikit-learn", "Firebase"]
+    languages = ["Python", "SQL", "C/C++"]
+    frameworks = ["TensorFlow/Keras", "Scikit-learn"]
     python_libraries = ["NumPy", "Pandas", "Matplotlib", "Seaborn"]
     tools = ["Git & GitHub", "VS Code", "Jupyter Notebook"]
 
